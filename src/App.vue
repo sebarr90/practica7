@@ -5,11 +5,11 @@
       <span>Cursos AlfaWeb</span>
       <v-spacer></v-spacer>
 
-      <v-btn href="https://github.com/vuetifyjs/vuetify/releases/latest" target="_blank" text>
+      <v-btn to="/" text>
         <i class="fa-solid fa-house"></i>
         <span>Home</span>
       </v-btn>
-      <v-btn text>
+      <v-btn text to="/administracion">
         <i class="fa-solid fa-wrench"></i>
         <span>Administración</span>
       </v-btn>
